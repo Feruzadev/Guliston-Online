@@ -3,7 +3,7 @@ import { Card, CardBody } from "@material-tailwind/react"
 import { NavLink } from "react-router-dom";
 export default function Hero() {
     return (
-        <div>
+        <div className="hero-margin mt-[180px]">
             <div className="Container">
                 <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-2 mb-[30px]">
                     <NavLink to="/mahsulotlar" className="group">

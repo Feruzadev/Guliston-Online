@@ -3,7 +3,7 @@ import { FaPhoneAlt } from "react-icons/fa";
 
 export default function Dilxush() {
     return (
-        <div>
+        <div className="hero-margin mt-[180px]">
             <div className="Container">
                 <div>
                     <img
