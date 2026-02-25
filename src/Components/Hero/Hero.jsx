@@ -17,7 +17,7 @@ export default function Hero() {
                                 />
                                 <div className="absolute inset-0 bg-black/25"></div>
                                 <div className="absolute inset-0 flex items-center justify-center">
-                                    <h2 className="text-white text-4xl font-semibold transition-transform duration-300 group-hover:scale-110">
+                                    <h2 className="text-white text-4xl font-semibold transition-transform duration-300 group-hover:scale-110 text-center">
                                         Mahsulotlar, xizmatlar
                                     </h2>
                                 </div>
@@ -35,7 +35,7 @@ export default function Hero() {
                                 />
                                 <div className="absolute inset-0 bg-black/25"></div>
                                 <div className="absolute inset-0 flex items-center justify-center">
-                                    <h2 className="text-white text-4xl font-semibold transition-transform duration-300 group-hover:scale-110">
+                                    <h2 className="text-white text-4xl font-semibold transition-transform duration-300 group-hover:scale-110 text-center">
                                         Tashkilot telefon raqamlari
                                     </h2>
                                 </div>
